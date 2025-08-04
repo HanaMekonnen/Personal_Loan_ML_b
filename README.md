@@ -1,3 +1,5 @@
+# Personal_Loan_ML_b
+
 🔸 Project Overview
 
  AllLife Bank, a U.S.-based financial institution, had a solid base of liability customers (depositors) but a limited number of borrowers. A recent marketing campaign for personal loans showed a modest 9% conversion rate. The bank wanted to increase its personal loan portfolio by identifying depositors most likely to accept a loan offer, enabling smarter targeting and improved ROI.
